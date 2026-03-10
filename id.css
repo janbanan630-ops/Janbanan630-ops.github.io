@@ -226,7 +226,6 @@ p{
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
-    opacity: 100%;
     display: block;
 }
 
@@ -353,6 +352,7 @@ p{
     top: 67.45%;
     left: 7.5%;
 }
+
 
 
 
