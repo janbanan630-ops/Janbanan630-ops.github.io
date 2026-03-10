@@ -74,6 +74,12 @@ body{
     left: 7.5%;
 }
 
+.godlo_gif{
+    position: absolute;
+    top: 37.45%;
+    left: 7.5%;
+}
+
 .data_title{
     font-weight: 600;
     font-size: 18px;
@@ -345,5 +351,6 @@ p{
     margin-right: auto;
     text-align: center;
 }
+
 
 
