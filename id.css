@@ -68,18 +68,6 @@ body{
     grid-template-rows: max-content max-content;
 }
 
-.flag_video{
-    position: absolute;
-    top: 63.45%;
-    left: 7.5%;
-}
-
-.godlo_gif{
-    position: absolute;
-    top: 77.45%;
-    left: 7.5%;
-}
-
 .data_title{
     font-weight: 600;
     font-size: 18px;
@@ -352,6 +340,17 @@ p{
     text-align: center;
 }
 
+.flag_video{
+    position: absolute;
+    top: 63.45%;
+    left: 7.5%;
+}
+
+.godlo_gif{
+    position: absolute;
+    top: 77.45%;
+    left: 7.5%;
+}
 
 
 
