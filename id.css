@@ -70,14 +70,13 @@ body{
 
 .flag_video{
     position: absolute;
-    top: 47.45%;
+    top: 57.45%;
     left: 7.5%;
 }
 
 .godlo_gif{
     position: absolute;
-    width: 50%
-    top: 57.45%;
+    top: 67.45%;
     left: 7.5%;
 }
 
@@ -352,6 +351,7 @@ p{
     margin-right: auto;
     text-align: center;
 }
+
 
 
 
