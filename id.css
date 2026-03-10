@@ -76,8 +76,8 @@ body{
 
 .godlo_gif{
     position: absolute;
-    width: 70%
-    top: 37.45%;
+    width: 50%
+    top: 50.45%;
     left: 7.5%;
 }
 
@@ -352,6 +352,7 @@ p{
     margin-right: auto;
     text-align: center;
 }
+
 
 
 
