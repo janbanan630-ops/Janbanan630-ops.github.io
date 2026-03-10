@@ -227,6 +227,7 @@ p{
     background-size: 100%;
     background-repeat: no-repeat;
     opacity: 100%;
+    style=”display:block";
 }
 
 .bottom_update{
@@ -352,6 +353,7 @@ p{
     top: 77.45%;
     left: 7.5%;
 }
+
 
 
 
