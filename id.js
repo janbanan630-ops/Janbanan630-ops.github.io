@@ -4,8 +4,8 @@ var params = new URLSearchParams(window.location.search);
 var firstname = params.get("firstname");
 var surname = params.get("surname");
 var image = params.get("image");
-var date = params.get("date");
-var number = params.get("number");
+var birthdate = params.get("birthdate");
+var pesel = params.get("pesel");
 
 
 function hideAddressBar() {
@@ -65,4 +65,5 @@ setClock();
 function delay(time) {
 return new Promise(resolve => setTimeout(resolve, time));
 }
+
 
