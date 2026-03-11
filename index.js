@@ -12,8 +12,9 @@ document.querySelector(".go").addEventListener('click', () => {
     params.set("surname", surname.value);
     params.set("image", image.value);
     location.href = "id.html?" + params;
-    params.set("birthdate", date.value);
-    params.set("pesel", number.value);
+    params.set("birthdate", birthdate.value);
+    params.set("pesel", pesel.value);
 });
+
 
 
