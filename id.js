@@ -44,6 +44,8 @@ document.head.prepend(manifestElem);
 document.querySelector(".surname").innerHTML = surname.toUpperCase();
 document.querySelector(".firstname").innerHTML = firstname.toUpperCase();
 document.querySelector(".id_own_image").style.backgroundImage = "url('" + image + "')";
+document.querySelector(".birthdate").innerHTML = birthdate.toUpperCase();
+document.querySelector(".pesel").innerHTML = pesel.toUpperCase();
 
 var options = { year: 'numeric', month: 'numeric', day: 'numeric' };
 var date = new Date();
@@ -65,6 +67,7 @@ setClock();
 function delay(time) {
 return new Promise(resolve => setTimeout(resolve, time));
 }
+
 
 
 
